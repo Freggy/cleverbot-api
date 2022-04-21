@@ -1,7 +1,7 @@
 Cleverbot API
 =============
 
-This project provides a HTTP API to Cleverbot using headless browser fuckery so you don't need to use the official paid API. Igonre every python file but `api_new.py` in this project. It's a pet project I did a long time ago and I didn't want to clean it up. The Dockerfile is correct though.
+This project provides a HTTP API to Cleverbot using headless browser fuckery so you don't need to use the official paid API. Ignore every python file but `api_new.py`. It's a pet project I did a long time ago and I didn't want to clean it up. The Dockerfile is correct though.
 
 Configuration
 -------------
